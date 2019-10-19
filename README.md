@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-## [Ask Question](../../issues/new) or [Read Questions]((../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+## [Ask Question](../../issues/new) or [Read Questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 ## Guidelines
 
